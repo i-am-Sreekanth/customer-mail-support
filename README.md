@@ -1,21 +1,19 @@
-# `README.md` — Customer Support NLP Ticket Classifier
+# Customer Support NLP Ticket Classifier
 
 ````markdown
 # Customer Support NLP Ticket Classifier
 
-Customer support teams often face **overwhelming volumes of emails**, making it difficult to **quickly categorize, prioritize, and respond** to customer issues. Misrouted tickets, delayed responses, or overlooked feedback can lead to **frustrated customers and lost business opportunities**.  
+Customer support teams often face overwhelming volumes of emails, making it difficult to quickly categorize, prioritize, and respond to customer issues. Misrouted tickets, delayed responses, or overlooked feedback can lead to frustrated customers and lost business opportunities.  
 
-This project solves that problem by providing an **intelligent NLP system** that automates the processing of customer emails. It can:
+This project solves that problem by providing an intelligent NLP system that automates the processing of customer emails. It can:
 
-- **Classify ticket type** (Incident, Problem, Question, Feedback, etc.)  
-- **Determine priority** (Low, Medium, High)  
-- **Route to the correct queue/department**  
-- **Assign relevant tags** (Bug, Marketing, Technical, etc.)  
-- **Suggest responses** based on similar past tickets  
+- Classify ticket type (Incident, Problem, Question, Feedback, etc.)  
+- Determine priority (Low, Medium, High)  
+- Route to the correct queue/department
+- Assign relevant tags (Bug, Marketing, Technical, etc.)  
+- Suggest responses based on similar past tickets  
 
-By combining **text preprocessing, sentence embeddings, multi-class and multi-label classification, and retrieval-based suggestions**, this system helps support teams **save time, reduce errors, and improve customer satisfaction**.
-
----
+By combining text preprocessing, sentence embeddings, multi-class and multi-label classification, and retrieval-based suggestions, this system helps support teams save time, reduce errors, and improve customer satisfaction.
 
 ## Table of Contents
 
@@ -30,11 +28,9 @@ By combining **text preprocessing, sentence embeddings, multi-class and multi-la
 9. [Evaluation](#evaluation)  
 10. [Credits](#credits)
 
----
 
 ## Project Structure
 
-```text
 project-name/
 │
 ├── data/                 # Dataset (raw + cleaned)
