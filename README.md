@@ -1,5 +1,3 @@
-# Customer Support NLP Ticket Classifier
-
 ````markdown
 # Customer Support NLP Ticket Classifier
 
@@ -15,7 +13,7 @@ This project solves that problem by providing an intelligent NLP system that aut
 
 By combining text preprocessing, sentence embeddings, multi-class and multi-label classification, and retrieval-based suggestions, this system helps support teams save time, reduce errors, and improve customer satisfaction.
 
-## Table of Contents
+# Table of Contents
 
 1. [Project Structure](#project-structure)  
 2. [Dataset](#dataset)  
@@ -256,7 +254,7 @@ The following table summarizes the model performance across key tasks:
 
 **Diagram:**
 
-![Workflow Diagram](assets/logi-flow-diagram.png)
+![Workflow Diagram](assests/logi-flow-diagram.png)
 ---
 
 ##  Credits
